@@ -26,10 +26,24 @@ nav a{
     margin-left: 50px;
     text-decoration: none;
 }
-header button{
-    justify-content: flex-end ;
-    padding: 9px 15px 9px 15px;
-    color: white;
-    background-color: rgb(27, 27, 247);
-    border-radius: 10px;
-}
+ 
+header button{ 
+   justify-content: flex-end; 
+   padding: 9px 15px 9px 15px; 
+   color: white; 
+   background-color: #018abe; 
+   border-radius: 10px; 
+} 
+              /* Освновной контент */ 
+  /* укрепление здоровья */ 
+  .heads_logo{ 
+     width: 1296px; 
+     height: 600px; 
+     background-image: url("../work/Logo.png"); 
+     margin:140px auto 0 auto; 
+     text-align: center;  
+  }  
+  .heads_cont{
+    
+  }
+  
