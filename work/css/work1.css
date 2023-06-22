@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1920px;
+    height: 5155px;
+    background-color: rgb(6, 11, 80);
+}
+/* меню */
+
+header{
+    width: 1298px;
+    height: 60px;
+    display: flex;
+    margin: 30px auto 0 auto;
+}
+header img{
+    justify-content: flex-start;
+}
+nav{
+    margin: 30px auto 0 auto ;
+}
+nav a{
+    color: white;
+    margin-left: 50px;
+    text-decoration: none;
+}
+header button{
+    justify-content: flex-end ;
+    padding: 9px 15px 9px 15px;
+    color: white;
+    background-color: rgb(27, 27, 247);
+    border-radius: 10px;
+}
