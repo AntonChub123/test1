@@ -5,7 +5,7 @@
 body{
     width: 1920px;
     height: 5155px;
-    background-color: rgb(90, 98, 210);
+    background-color: rgb(16, 22, 96);
 }
 /* меню */
 
@@ -134,15 +134,29 @@ border-radius: 20px;
     justify-content: center;
 }
 .feed2{
-    width: 636px;
+    width: 640px;
     height: 350px;
     background-image: url("../work/img3.png");
     margin-top: -340px;
-    margin-left: 650px;
+    margin-left: 660px;
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 10px;
     
+}
+.feed3{
+    width: 500px;
+    height: 276px;
+    background-image: url("../work/img4.png");
+    margin-top: -330px;
+    margin-left: 1328px;
+    border-radius: 10px;
+    padding: 20px;
+    opacity: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
     
