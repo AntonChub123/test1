@@ -5,7 +5,7 @@
 body{
     width: 1920px;
     height: 5155px;
-    background-color: rgb(6, 11, 80);
+    background-color: rgb(90, 98, 210);
 }
 /* меню */
 
@@ -42,8 +42,5 @@ header button{
      background-image: url("../work/Logo.png"); 
      margin:140px auto 0 auto; 
      text-align: center;  
-  }  
-  .heads_cont{
-    
-  }
+
   
