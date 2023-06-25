@@ -5,7 +5,7 @@
 body{
     width: 1920px;
     height: 5155px;
-    background-color: rgb(16, 22, 96);
+    background-color: rgb(3, 46, 66);
 }
 /* меню */
 
@@ -59,6 +59,7 @@ header button{
 .parent{
     color: white;
     
+    
 }
 .div1{
     background-image: url("../work/img.png");
@@ -68,7 +69,7 @@ header button{
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .div2{
     background-image: url("../work/img2.png");
@@ -79,7 +80,7 @@ header button{
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .div3{
 width: 416px;
@@ -90,18 +91,18 @@ margin-top: 20px;
 display: flex;
 align-items: center;
 justify-content: center;
-border-radius: 20px;
+border-radius: 10px;
 }
 .div4{
     width: 416px;
     height: 258px;
     background-image: url("../work/img2.png");
     margin-left: 1192px;
-    margin-top: -539px;
+    margin-top: -536px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .div5{
     width: 416px;
@@ -112,8 +113,11 @@ border-radius: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 20px;
+    border-radius: 10px;
+    
 }
+
+
 .fedd{
     text-align: center;
     margin-top: 100px;
@@ -158,9 +162,80 @@ border-radius: 20px;
     align-items: center;
     justify-content: center;
 }
-
+.feed_nav{
+    background-image: url("../work/img\ control.png");
+    width: 124px;
+    height: 16px;
+    margin-top: 70px;
+    margin-left: 898px;
+}
+.about{
+    width: 389px;
+    height: 59px;
+    margin-top: 100px;
+    margin-left: 870px;
+    border-radius: 0 50px 0 50px;
+    color: white;
+}
+.about_cont1{
+    width: 466px;
+    height: 234px;
+    margin-top: 100px;
+    margin-left: 350px;
+    color: white;
+   
     
+    
+}
+.logo{
+    width: 526px;
+    height: 365px;
+    margin-top: -300px;
+    margin-left: 972px;
+    border-radius: 10px;
+}
+.about_cont2{
+    width: 466px;
+    height: 366px;
+    margin-top: 100px;
+    margin-left: 1000px;
+   color: white;
+}
+.logo2{
+    width: 526px;
+    height: 400px;
+    margin-top: -420px;
+    margin-left: 340px;
+    border-radius: 10px;
+}
+.ptice{
+    width: 518px;
+    height: 59px;
+    margin-top: 100px;
+    margin-left: 850px;
+    border-radius: 0 50px 0 50px;
+    color: white;
+}
+.and{
+  width: 526px;
+  height: 396px;
+  margin-top: 100px;
+  margin-left: 972px;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  line-height: 2;
 
+}
+.vid{
+    width: 416px;
+    height: 250px;
+    margin-top: -300px;
+    margin-left: 422px;
+    border-radius: 0 50px 0 50px;
+    color: white;
+    line-height: 2;
+}
 
     
  
