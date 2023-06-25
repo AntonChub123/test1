@@ -230,12 +230,56 @@ border-radius: 10px;
 .vid{
     width: 416px;
     height: 250px;
-    margin-top: -300px;
+    margin-top: -370px;
     margin-left: 422px;
     border-radius: 0 50px 0 50px;
     color: white;
+    line-height: 3;
+}
+.map{
+    width: 856px;
+    height: 604px;
+    margin-top: 250px;
+    margin-left: 312px;
+    border-radius: 10px;
+    background-color:black
+}
+.end{
+    width: 392px;
+    height: 290px;
+    margin-top: -605px;
+    margin-left: 1216px;
+}
+.end2{
+    width: 302px;
+    height: 34px;
+    margin-top: -230px;
+    margin-left: 1261px;
+    color: white;
     line-height: 2;
 }
+main button{ 
+    padding: 9px 15px 9px 15px; 
+    color: blue; 
+    background-color:white; 
+    border-radius: 10px; 
+    margin: 20px 0 0 0 ;
+}
+ .end3{
+    width: 392px;
+    height: 290px;
+    margin-top: 220px;
+    margin-left: 1216px;
+ }
+ .end4{
+    width: 302px;
+    height: 34px;
+    margin-top: -240px;
+    margin-left: 1261px;
+    color: white;
+    line-height: 2;
+ }
+
 
     
  
