@@ -1,27 +1,5 @@
-#clockContainer {
-    position: relative;
-    margin: auto;
-    height: 40vw;
-    /*to make the height and width responsive*/
-    width: 40vw;
-    background: url("./work/img/cloack.png") no-repeat;
-    /*setting our background image*/
-    background-size: 100%;
+#clockContainer{
+    background-image: url("/test1/work/img/cloack.png");
 }
  
-#hour,
-#minute,
-#second {
-    position: absolute;
-    background: black;
-    border-radius: 10px;
-    transform-origin: bottom;
-}
- 
-#hour {
-    width: 1.8%;
-    height: 25%;
-    top: 25%;
-    left: 48.85%;
-    opacity: 0.8;
-}
+
