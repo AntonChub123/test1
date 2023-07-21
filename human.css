@@ -5,7 +5,7 @@
 body{
     width: 1440px;
     height: 882px;
-    background-image: url("./img/gg.png");
+    /* background-image: url("./img/gg.png"); */
    
     
 }
@@ -55,6 +55,8 @@ header a{
     gap: 24px;
     margin-top: 100px;
     color: white;
+    margin-top: -700px;
+    margin-left: -100px;
     
 }
 .shop2 button{
@@ -62,19 +64,24 @@ header a{
     width: 201px;
     height: 64px;
     justify-content: flex-end;
+    margin-left: 150px;
 }
-#des{
+.des{
     width: 1440px;
     height: 216px;
     background-color: #FFFAEF;
-    margin-top:630px;
+    margin-top:598px;
      color: #006450;
      text-align: center;
      padding-top: 100px;
 }
+hr{
+  background-color: #006450;
+ margin-top: px;
+}
 .shower{
-    width: 707.5px;
-    height: 707.5px;
+    width: 682.5px;
+    height: 682.5px;
     background-image: url("./img/Frame\ \(1\).png");
     text-align: center;
     padding-top: 100px;
@@ -86,4 +93,12 @@ header a{
     height: 60px;
     margin-top: 450px;
     margin-left: -27px;
+}
+.summer{
+    width: 682.5px;
+    height: 682.5px;
+    background-image: url("./img/Rectangle\ \(2\).png");
+    margin-left: 689px;
+    margin-top: -805px;
+    
 }
